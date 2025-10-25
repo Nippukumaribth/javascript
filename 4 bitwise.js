@@ -1,0 +1,10 @@
+// let a=12&10;
+// let a=12||10;
+// let a=~5;
+// let a= 10<<1;
+// let a= -4>>2;
+// let a= 10>>>2;
+// let a= 25;
+let a= -3.5;
+// console.log(Math.floor(a)); 
+document.write(Math.trunc(a));
